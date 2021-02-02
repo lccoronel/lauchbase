@@ -1,1 +1,13 @@
-{"avatar_url":"http://ww.teste.com","name":"asfa","birth":"12387193","gender":"M","services":"3123"}
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Teste",
+      "avatar_url": "http://ww.teste.com",
+      "gender": "M",
+      "birth": 1286679600000,
+      "services": "natacão, corrida",
+      "created_at": 1612277394920
+    }
+  ]
+}
